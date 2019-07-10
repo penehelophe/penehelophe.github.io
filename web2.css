@@ -1,0 +1,33 @@
+img {
+  width:30%;
+}
+
+body {
+  background-color: lightblue;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.red_font{
+  color: dodgerblue;
+}
+
+.blue_font{
+  color: lightseagreen;
+  font-family: 'Barriecito';
+
+}
+
+.purple_font{
+    color: 'Magenta';
+
+}
+
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
